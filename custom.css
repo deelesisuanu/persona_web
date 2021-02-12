@@ -19,3 +19,11 @@
 .display-none{
     display: none !important;
 }
+
+.card-body {
+    
+}
+
+.little-margin {
+    margin-bottom: 15px;
+}
